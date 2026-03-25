@@ -133,3 +133,8 @@ The app will be available at `http://localhost:5173`.
 ## License
 
 This project is for personal/educational use. Add a proper license here if you intend to open-source it.
+
+
+## Demo Video
+
+[Watch the demonstration video](https://drive.google.com/file/d/1wTAXAejVYuWhQDKWxMJ24MnqXGpps623/view?usp=sharing)
